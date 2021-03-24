@@ -1,13 +1,5 @@
 # Speech Translator 
-- [ ] Mercury
-- [x] Venus
-- [x] Earth (Orbit/Moon)
-- [x] Mars
-- [ ] Jupiter
-- [ ] Saturn
-- [ ] Uranus
-- [ ] Neptune
-- [ ] Comet Haley
+
 - [x] Web app set up.
 - [ ] Cloud Services for speech translation
 - [ ] Building a ML model based on GANs for speech synthesis for voice replication
