@@ -1,0 +1,17 @@
+<span id="a">rushiraj@tech</span>:<span id="b">~</span><span id="c">$</span> cd rushiraj<!-- laglaglaglaglaglaglaglaglaglaglag -->/about-rushiraj
+<span id="a">rushiraj@tech</span>:<span id="b">~</span><span id="c">$</span> cat <!-- laglaglaglaglaglaglaglaglag -->rushiraj.txt<br/><br/>
+My favorite code quote, "<span id="k">Work every waking hour!</span>". <!-- sjkfhskjf -->
+
+Hey There! I am Rushiraj Chavan, your friendly neighbourhood programmer.
+<!-- laglaglaglaglaglaglaglaglaglaglaglag -->
+<p>I am currently pursuing a Bachelor's in Computer Engineering from Savitribai Phule Pune University (SPPU)</p>
+<p>I have been introduced to the world of programming since 2013 that is 8 YEARS!! </p> 
+<p>My first programming language was C++ and obviously started with "helloworld.cpp"</p>
+<!-- bitlagbitlagbitlagbitlagbitlagbitlag -->
+<p>I have worked on Android Development using Flutter, Machine Learning, Data Analytics, Data Engineering, Simple Robotics with Raspberry Pi and Web Development till now. I try to keep learning new things to broaden my technical horizon. You can learn more about me via my <a href="https://www.linkedin.com/in/rushirajchavan"> LinkedIn Profile</a>.</p>
+<p>One thing you may notice is that I am always up for the challenge. The more impossible it seems, the better. I love to solve complex and algorithmic problems via. competitive programming<br><br><br>Checkout my <a href="https://www.codechef.com/users/rushirajchavan">codechef</a> profile.</p>
+<p>You can visit my other profiles here: <br> <a href="">Github</a> <br> <a href="link2">Hackerrank</a> and <br> <a href="Codeforces">Codeforces</a>.</p>
+If you would like to get in touch with me<!-- slightdelayhere-->, feel free to send me an email at <!-- longlonglongcomment --><a href="rushiraj.chavan-coel@bvp.edu.in">rushiraj.chavan-coel@bvp.edu.in</a>
+<p>Cheers!</p>
+
+<span id="a">rushiraj@tech</span>:<span id="b">~</span><span id="c">$</span><!-- laglaglaglaglaglaglaglaglag -->exit
